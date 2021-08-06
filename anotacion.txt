@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hola que talay
 ay no eso si jamas
+=======
+hola que tal
+hola hola
+que queeeeee 
+>>>>>>> actualizando
